@@ -1,2 +1,3 @@
-# OrgoCraft
-OrgoCraft is a web-based application designed to create a direct digital bridge between farmers  and end-users, empowering both sides with transparency, fair trade, and ease of access. It  addresses a fundamental need in modern agriculture: giving farmers direct access to consumers without intermediaries.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0b186d310fe6701bf2acb97c71754ba0aa7d94ab8da5830de15b427fd25a916
+size 505
