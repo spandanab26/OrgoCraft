@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e0b186d310fe6701bf2acb97c71754ba0aa7d94ab8da5830de15b427fd25a916
-size 505
+# OrgoCraft
+
+Bridging The Gap Between Farmers and Buyers
+- The project “OrgoCraft” aims at helping Farmers to sell their products directly through this website in their own proposed price and users can buy it. 
+- This system is used enhance user experience and to build trust about farmers inside them. Farmer upload their product with details and buyer view this details and book that product within a time.
+
+Requirements
+
+- Wamp/Xampp Server
+- Browser
+- Visual Studio Code/Notepad/Atom/Sublime ...
+
